@@ -1,0 +1,16 @@
+{
+  "name": "bmi-calculator",
+  "version": "1.0.0",
+  "description": "A simple BMI calculator in TypeScript",
+  "main": "bmiCalculator.js",
+  "scripts": {
+    "calculateBmi": "tsc bmiCalculator.ts && node bmiCalculator.js",
+    "calculateExercises": "tsc exerciseCalculator.ts && node exerciseCalculator.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
