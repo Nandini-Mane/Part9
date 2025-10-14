@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "compilerOptions": {
     // ... other options
@@ -20,4 +21,28 @@
   "exclude": [
     "node_modules"
   ]
+=======
+{
+  "compilerOptions": {
+    // ... other options
+    "target": "es2016",
+    "lib": [
+      "ES6"
+    ],
+    "module": "CommonJS", // Set module to CommonJS
+    "moduleResolution": "node", // Set moduleResolution to node
+    "rootDir": "src",
+    "outDir": "dist",
+    "strict": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "verbatimModuleSyntax": false, // Disable verbatimModuleSyntax
+    "skipLibCheck": true,
+    "sourceMap": true,
+    "allowSyntheticDefaultImports": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+>>>>>>> 534f0d7baea23ffd5e45702c2883bd7b03e6f974
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "watch": ["src"],
   "ext": "ts",
@@ -5,4 +6,13 @@
   "env": {
     "TS_NODE_PROJECT": "tsconfig.json"
   }
+=======
+{
+  "watch": ["src"],
+  "ext": "ts",
+  "exec": "ts-node src/index.ts",
+  "env": {
+    "TS_NODE_PROJECT": "tsconfig.json"
+  }
+>>>>>>> 534f0d7baea23ffd5e45702c2883bd7b03e6f974
 }
