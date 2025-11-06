@@ -1,0 +1,114 @@
+<<<<<<< HEAD
+[
+{
+"id": "d2773336-f723-11e9-8f0b-362b9e155667",
+"name": "John McClane",
+"dateOfBirth": "1986-07-09",
+"ssn": "090786-122X",
+"gender": "male",
+"occupation": "New york city cop",
+"entries": []
+},
+{
+"id": "d2773598-f723-11e9-8f0b-362b9e155667",
+"name": "Hans Gruber",
+"dateOfBirth": "1970-04-20",
+"ssn": "200470-122Z",
+"gender": "male",
+"occupation": "Terrorist",
+"entries": []
+},
+{
+"id": "d27736ec-f723-11e9-8f0b-362b9e155667",
+"name": "Dana Scully",
+"dateOfBirth": "1964-02-28",
+"ssn": "280264-522Z",
+"gender": "female",
+"occupation": "FBI agent",
+"entries": []
+},
+{
+"id": "d2773822-f723-11e9-8f0b-362b9e155667",
+"name": "Matti Luukkainen",
+"dateOfBirth": "1971-04-09",
+"ssn": "090471-889C",
+"gender": "male",
+"occupation": "Developer",
+"entries": []
+},
+{
+"id": "d2773c6e-f723-11e9-8f0b-362b9e155667",
+"name": "Martti Luukkainen",
+"dateOfBirth": "1972-04-09",
+"ssn": "090472-889C",
+"gender": "male",
+"occupation": "Developer",
+"entries": []
+},
+{
+"id": "d27740e0-f723-11e9-8f0b-362b9e155667",
+"name": "Arto Hellas",
+"dateOfBirth": "1986-08-04",
+"ssn": "040886-242N",
+"gender": "male",
+"occupation": "Developer",
+"entries": []
+}
+=======
+[
+{
+"id": "d2773336-f723-11e9-8f0b-362b9e155667",
+"name": "John McClane",
+"dateOfBirth": "1986-07-09",
+"ssn": "090786-122X",
+"gender": "male",
+"occupation": "New york city cop",
+"entries": []
+},
+{
+"id": "d2773598-f723-11e9-8f0b-362b9e155667",
+"name": "Hans Gruber",
+"dateOfBirth": "1970-04-20",
+"ssn": "200470-122Z",
+"gender": "male",
+"occupation": "Terrorist",
+"entries": []
+},
+{
+"id": "d27736ec-f723-11e9-8f0b-362b9e155667",
+"name": "Dana Scully",
+"dateOfBirth": "1964-02-28",
+"ssn": "280264-522Z",
+"gender": "female",
+"occupation": "FBI agent",
+"entries": []
+},
+{
+"id": "d2773822-f723-11e9-8f0b-362b9e155667",
+"name": "Matti Luukkainen",
+"dateOfBirth": "1971-04-09",
+"ssn": "090471-889C",
+"gender": "male",
+"occupation": "Developer",
+"entries": []
+},
+{
+"id": "d2773c6e-f723-11e9-8f0b-362b9e155667",
+"name": "Martti Luukkainen",
+"dateOfBirth": "1972-04-09",
+"ssn": "090472-889C",
+"gender": "male",
+"occupation": "Developer",
+"entries": []
+},
+{
+"id": "d27740e0-f723-11e9-8f0b-362b9e155667",
+"name": "Arto Hellas",
+"dateOfBirth": "1986-08-04",
+"ssn": "040886-242N",
+"gender": "male",
+"occupation": "Developer",
+"entries": []
+}
+>>>>>>> 534f0d7baea23ffd5e45702c2883bd7b03e6f974
+]
