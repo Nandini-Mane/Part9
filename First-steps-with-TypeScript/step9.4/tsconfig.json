@@ -1,0 +1,31 @@
+{
+  "compilerOptions": {
+    // Required Base Settings
+    "target": "es2020",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "rootDir": "./src",
+    "outDir": "./dist",
+
+    // Strictness Checks (As Requested)
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "strictNullChecks": true,
+    "strictPropertyInitialization": true,
+    "strictBindCallApply": true,
+    "noUnusedLocals": true,
+    // Using underscore prefix for parameters in routes (e.g., _req) prevents this error:
+    "noUnusedParameters": true,
+    "noImplicitThis": true,
+    "alwaysStrict": true,
+    
+    // Interop & Declaration
+    "esModuleInterop": true,
+    "declaration": true,
+    
+    // Other recommended settings
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": ["src/**/*"]
+}
